@@ -1,5 +1,7 @@
 ---
 title: "About"
 ---
+## About Me
+My name is **Michael Massaria**, and I go to *Trumbull High School*.
 
-Michael Massaria
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
